@@ -25,3 +25,4 @@ imagen = qr.make_image()
 
 # Guardemos la imagen con la extension que queramos
 imagen.save('codigo.png')
+![image](https://user-images.githubusercontent.com/77991838/120045924-0eb09d80-bfdf-11eb-90cd-f546c66a7893.png)
